@@ -1,1 +1,0 @@
-[{"cmd": ["/learn/cpp/\u9879\u76eebittorrent/test/build/limiter_test"], "env": {}, "name": "limiter_test", "workdir": null, "timeout": 30, "suite": ["simple"], "is_parallel": true, "priority": 0, "protocol": "exitcode"}]
