@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/learn/cpp/项目bittorrent/test/build",
+    "command": "c++ -Ilimiter_test@exe -I. -I.. -I../subprojects/Catch2-2.13.8/single_include -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -g -MD -MQ 'limiter_test@exe/main.cpp.o' -MF 'limiter_test@exe/main.cpp.o.d' -o 'limiter_test@exe/main.cpp.o' -c ../main.cpp",
+    "file": "../main.cpp",
+    "output": "limiter_test@exe/main.cpp.o"
+  }
+]

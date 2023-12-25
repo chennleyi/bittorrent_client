@@ -1,0 +1,14 @@
+# Target labels
+ cpr-populate
+# Source files and their labels
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/CMakeFiles/cpr-populate
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/CMakeFiles/cpr-populate.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/CMakeFiles/cpr-populate-complete.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-install.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-mkdir.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-download.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-update.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-patch.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-configure.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-build.rule
+/learn/cpp/bittorrent_client/build/_deps/cpr-subbuild/cpr-populate-prefix/src/cpr-populate-stamp/cpr-populate-test.rule
